@@ -1,1 +1,26 @@
-# Hello!!! 
+## Hi there, I'm Rahul! 👋
+
+### Here's a little bit about myself
+
+- ⚡ I'm a Data Engineer
+- 📫 How to reach me [*LinkedIn*](https://www.linkedin.com/in/rahul-singh-0502/)
+- 📝 My certification:
+
+
+#
+  💥💥💥 ~~ [**Check out my portfolio here!**] ~~ 💥💥💥
+
+<!--
+**lucjankonopka/lucjankonopka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
