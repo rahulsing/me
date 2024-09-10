@@ -30,11 +30,11 @@
   <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="ruby logo"  />
   <img width="12" />
-  <img src="athena.svg" height="40" alt="dot-net logo"  />
+  <img src="Athena.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
   <img src="mwaa.svg" height="40" alt="firebase logo"  />
   <img width="12" />
-  <img src="glue.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="Glue.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="SageMaker.svg" height="40" alt="circleci logo"  />
   <img width="12" />
