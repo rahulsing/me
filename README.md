@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">I'm Rahul <br><br>- 🔭 I’m working as Data and GenAI Engineer at AWS <br>- 📚 I'm currently helping customers building data and AI solution <br>- ⚡ In my free time I love spending time with my kids</p>
+<p align="left">I'm Rahul <br><br>- 🔭 I'm working as Lead Data Engineer and Solution Architect at AWS <br>- 📚 I have extensive experience across the full technology stack: <br>&nbsp;&nbsp;&nbsp;&nbsp;🌐 Web Development (Full-Stack Applications) <br>&nbsp;&nbsp;&nbsp;&nbsp;🔗 APIs & Microservices Architecture <br>&nbsp;&nbsp;&nbsp;&nbsp;🗄️ SQL Databases & Data Warehousing <br>&nbsp;&nbsp;&nbsp;&nbsp;📊 Big Data & Distributed Systems <br>&nbsp;&nbsp;&nbsp;&nbsp;🤖 GenAI & Machine Learning Solutions <br>- 🚀 I'm currently helping customers building data and AI solutions <br>- ⚡ In my free time I love spending time with my kids</p>
 
 ###
 
@@ -47,11 +47,37 @@
 
 ### 🌱 What do I do and What have I done? 
 
-- Working a Big Data and AI Engineer at AWS, ublocking customer to succeed on AWS. 
-- Started carrier as .Net Developer and worked at Web/Windows App developer. 
-- By getting facinated by data, became self tought MSBI and Microsoft Tech Stack Data Engineer. 
+- Working as Lead Data Engineer and Solution Architect at AWS, unblocking customers to succeed on AWS. 
+- Now, along with Big Data, also working on Agentic AI initiatives including building prototypes and training.
+- Started career as .Net Developer and worked as Web/Windows App developer. 
+- By getting fascinated by data, became self taught MSBI and Microsoft Tech Stack Data Engineer. 
 - From last 6 years work in Big Data, out of which last 3 years working with AWS Big Data Tech stack.
-- Loving building big data framework and solutions. 
+- Loving building big data framework and solutions.
+
+### 🚀 Continuous Learning & Innovation
+
+- **Self-Taught Technology Adoption**: Successfully transitioned from .NET development to Big Data engineering through self-directed learning
+- **Emerging Technologies**: Actively exploring and implementing cutting-edge solutions in GenAI, ML Ops, and Serverless architectures
+- **AWS Innovation**: Stay current with latest AWS services and features, often being among the first to implement new capabilities for customers
+- **Knowledge Sharing**: Regularly contribute to technical blogs and conduct workshops to share learnings with the community
+- **Certification Journey**: Continuously pursuing advanced certifications to validate expertise and learn new technologies
+
+## 💼 Professional Experience
+
+### 🚀 [Amazon Web Services (April 2021 - Present)](amazon-experience.md)
+**Cloud Engineer II** | Subject Matter Expert for AWS Big Data & ML Services
+- Global point of contact for Deep Dive sessions and guidance
+- Lead Cost and Performance Optimization Pillar of Well-Architected Framework
+- Worked different engagements to reduce customer costs ranging 20-40% annually through optimization strategies
+- Work with different AWS service builders to fix bugs and provide guidance to resolve issues
+- 100% customer satisfaction with zero SLA misses
+
+### 🏢 [Cognizant Technology Solutions (January 2011 - March 2021)](cognizant-experience.md)
+**Technical Lead / Senior Big Data Developer** | 10+ Years Career Evolution
+- Evolved from .NET Developer to Big Data Technical Lead
+- Led enterprise projects for AIG, Johnson & Johnson, 7-Eleven, and Schwan's
+- Delivered 50-60% performance improvements across multiple projects
+- Architected serverless data pipelines and big data frameworks
 
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
