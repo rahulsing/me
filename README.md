@@ -65,7 +65,18 @@ I'm Rahul
 
 ## 💼 Professional Experience
 
-### 🚀 [Amazon Web Services (April 2021 - Present)](amazon-experience.md)
+### 🚀 [Amazon Web Services (June 2025 - Present)](amazon-experience.md)
+**Technical Account Manager** | Startups
+- Serve as trusted technical advisor for startup customers, providing strategic guidance on AWS architecture and best practices
+- Drive proactive engagement through Well-Architected Framework reviews and optimization recommendations, like 66K anually savings with S3 optimization, EC2 and OpenSearch r6a to r8g gravition migration with 46% cost optimization. 
+- Lead customer onboarding initiatives leveraging AWS Enterprise Support capabilities
+- Coordinate cross-functional resources including AWS Concierge team for billing optimization and service teams for technical escalations
+- Manage customer health and satisfaction through regular business reviews and technical deep dives
+- Provide expertise in AWS Big Data, ML services, and cost optimization strategies
+- Maintain strong customer relationships with focus on long-term success and cloud adoption acceleration
+
+- 
+### 🚀 [Amazon Web Services (April 2021 - June 2025)](amazon-experience.md)
 **Cloud Engineer II** | Subject Matter Expert for AWS Big Data & ML Services
 - Global point of contact for Deep Dive sessions and guidance
 - Lead Cost and Performance Optimization Pillar of Well-Architected Framework
