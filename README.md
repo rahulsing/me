@@ -75,7 +75,6 @@ I'm Rahul
 - Provide expertise in AWS Big Data, ML services, and cost optimization strategies
 - Maintain strong customer relationships with focus on long-term success and cloud adoption acceleration
 
-- 
 ### 🚀 [Amazon Web Services (April 2021 - June 2025)](amazon-experience.md)
 **Cloud Engineer II** | Subject Matter Expert for AWS Big Data & ML Services
 - Global point of contact for Deep Dive sessions and guidance
